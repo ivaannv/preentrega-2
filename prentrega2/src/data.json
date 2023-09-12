@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1, 
+        "Nombre": "Remera Negra", 
+        " precio": "10000", 
+        "img": "./remera-negra.png"
+    },
+    {
+        "id": 2, 
+        "Nombre": "Remera Blanca", 
+        " precio": "10000", 
+        "img": "../remera-blanca.png"
+    },
+    {
+        "id": 3, 
+        "Nombre": "Buzo Negro", 
+        " precio": "10000", 
+        "img": "../buzo-negro.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Buzo Blanco",
+        "Price": "18700",
+        "img": "../buzo-blanco.png"
+    },
+    {
+        "id": 5,
+        "title":"Pantalon Beige",
+        "Price": "18500",
+        "img": "../pantalon-cargo-beige.png"
+    }
+    
+]

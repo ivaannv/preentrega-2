@@ -1,0 +1,21 @@
+.containerNav{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-bottom: 1px solid black;
+}
+
+li {
+    display: inline-block;
+    margin: 1rem;
+}
+
+ul{
+    text-decoration: none;
+}
+
+a{
+ color: black;
+ font-size: large;
+ text-decoration: none;
+}
