@@ -1,34 +1,31 @@
-.cardProduct {
-    background-color: #5d5d5d;
-    border-radius: 10px;
-    width: 15rem;
+.cardProducto {
+    background-color: #ffffff;
+    border-radius: 15px;
+    width: 14rem;
     padding: 1rem;
     margin: 1rem;
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: white;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    height: auto;
 }
 
-.imgProduct {
-    width: 150px;
-    object-fit: contain;
+.cardProducto:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0.2);
 }
 
-.verMas{
-    color: rgb(0, 0, 0);
-    background-color: white;
-    border-radius: 5px;
-}
-
-.btnProduct {
-    background-color: #3d2020;
-    color: white;
-    font-size: 1.2rem;
-    width: 8rem;
+.imgProducto {
+    width: 90px;
+    height: auto;
+    object-fit: cover;
     border-radius: 10px;
-    border: none;
-    cursor: pointer;
+    margin-bottom: 1rem;
 }
 
+h3{
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
 
